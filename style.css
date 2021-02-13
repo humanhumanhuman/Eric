@@ -3,8 +3,14 @@ body {
     font-size: 100px;
     background-color: cadetblue;
     color: chartreuse;
+    font-family: cursive;
 }
 
 #games {
     font-size: 50px;
+    color: aquamarine;
+}
+h4{
+    color:aquamarine;
+    font-size: 80px
 }
