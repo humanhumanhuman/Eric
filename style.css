@@ -1,12 +1,10 @@
 body {
     text-align: center;
     font-size: 100px;
-    background-color: #FF1744;
-    color: black;
+    background-color: cadetblue;
+    color: chartreuse;
 }
 
 #games {
     font-size: 50px;
 }
-
-
