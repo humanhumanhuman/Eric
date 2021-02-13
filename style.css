@@ -1,8 +1,12 @@
-body{
-  background-color:dimgray;
-  text-align:center;
+body {
+    text-align: center;
+    font-size: 100px;
+    background-color: #FF1744;
+    color: black;
 }
-#d{
-    color:#D32F2F;
-    font-size:150px
+
+#games {
+    font-size: 50px;
 }
+
+
