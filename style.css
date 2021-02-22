@@ -10,7 +10,16 @@ body {
     font-size: 50px;
     color: aquamarine;
 }
-h4{
-    color:aquamarine;
+
+h4 {
+    color: aquamarine;
     font-size: 80px
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
 }
