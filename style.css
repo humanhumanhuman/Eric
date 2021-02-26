@@ -1,18 +1,14 @@
 body {
     text-align: center;
-    font-size: 100px;
-    background-color: cadetblue;
-    color: chartreuse;
-    font-family: cursive;
-}
-
-#games {
-    font-size: 50px;
-    color: aquamarine;
+    font-size: 70px;
+    background-color:dodgerblue;
+    color:darkturquoise;
+    font-family: fantasy;
+    margin-top: 45px;
 }
 
 h4 {
-    color: aquamarine;
+    color: cyan;
     font-size: 80px
 }
 
@@ -22,4 +18,26 @@ img {
 
 img:hover {
     transform: scale(0.9);
+}
+.line{
+    border-color: aquamarine;
+}
+.menu{
+    position: fixed;
+    background: cyan;
+    color:cornflowerblue;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    font-size: 40px
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 26px;
+}
+.links:hover{
+    font-size: 45px;
+    text-decoration: underline;
 }
